@@ -1,0 +1,29 @@
+# Title
+
+## Chapter
+
+I was able to duck behind a tree as I rushed to the end of the clearing. The only building with an entrance on this side was on the right side, centered between two others. It was the only option. I peeked around the tree at different angles anyway, and couldn't find any.
+
+The only obstacle was slightly small and slightly slim frame of a person, knelt down and facing the wall. They were possibly collecting something, or planting something. I wasn't sure if there were people living out here,  much less trying to make it by themselves. It's just as likely they were waiting to blast someone as they came through the door. I readied my crossbow as I flipped the cap open at the front of the scope.
+
+Before I was able to find out who I was dealing with, I heard the horrid sound of brakes squeaking coming from the left side of the buildings. Sweeping over I didn't see them but the figure moved, clearly startled by the sound too. She twisted around and eyed the door, wrapping herself in what looked like a poncho.
+
+I fired to the other side of her. She needed to run x and do what they probably told her to do. The bolt hit the wall, and on instinct she ran inside. She continued, pulling out a small pistol and fired twice out the door. She was supposed to run, but she didn't. I expected her to be gone as I rushed from the tree to the building, and she popped back into the doorway with a scared but dead eyed look. My bold landed into her left shoulder. The force caught her off guard and sent her plummeting to the ground. Thankfully she dropped her gun, and that was good enough.
+
+I was able to make it to her seconds after she hit the ground with a thud. She wasn't bleeding very much and besides a light whimper she was stable. I clipped the front and back of the bolt as I tried to speak to her. I was calm about the situation, but still spoke with as much urgency as I could.
+
+“You’ll be alright, you’ll be alright.”
+
+“No plastic.” She replied.
+
+That was all she was able to say. After I finished wrapping the wound above and below, I made an effort to check the rest of her. She had a medical bracelet with ‘SCA Anemic’ written on the inside.
+
+Carrying her was slow. No matter how quiet she was it was still difficult to get around without attracting attention. We slipped through the buildings, and they were all deserted. Most of the doors were busted open and picked through already. A couple were reinforced and left alone, they seemed to all be children's rooms collected together in one apartment.
+
+“Couldn't get in.”
+
+She whispered to me as she pointed to the door. The door didn't have any identifying marks and the entire door frame was welded closed, but a missing door handle showed me a little inside. As far as I could guess it was a girl's room, though it looked like it hadn't been lived in for quite a while. It made sense given the circumstances. I pulled one of my last GP disks out and was able to place it on the inside wall.
+
+“We’ll come back for it.”
+
+The girl nodded and we passed out the front door.

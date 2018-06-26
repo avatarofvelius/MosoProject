@@ -1,0 +1,7 @@
+graft api
+graft admin
+
+graft Backend/templates
+graft Backend/static
+
+include Backend/schema.sql

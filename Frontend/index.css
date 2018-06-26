@@ -1,0 +1,49 @@
+body {
+    background-color: #181818;
+    font: normal 1.15em/1.5 'Book Antiqua', serif;
+    color: #eee;  
+}
+
+main {
+    width: 90%;
+    margin: 25px auto;
+}
+
+.center {
+    margin: 50px auto;
+    text-align: center;
+}
+
+.left {
+    padding: 25px 25px; 
+    margin-top: 25px;
+    margin-left: 100px;
+    float: left;
+}
+
+.right {
+    padding: 25px 25px; 
+    margin-top: 25px;
+    margin-right: 100px;
+    float: right;
+}
+
+h2 {
+    font: 2em/1 Georgia, serif;
+}
+
+h3 {
+    font: 1.25em/1 Georgia, serif;
+}
+
+a {
+    color: #eee;
+}
+
+a:hover {
+    color: #717171;
+}
+
+ul {
+    list-style-type: none;
+}
